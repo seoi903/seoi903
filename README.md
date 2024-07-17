@@ -20,5 +20,5 @@
   
 <h3 align="left"># My stats:</h3>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoi903)](https://solved.ac/seoi903)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoi903)](https://solved.ac/seoi903)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seoi903&show_icons=true&theme=dracula&locale=en" alt="seoi903" /></p>

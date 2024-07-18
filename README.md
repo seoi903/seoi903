@@ -10,7 +10,7 @@
 
 <h3 align="left"># Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/seoi_ep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seoi_ep" height="30" width="40" /></a>
+<a href="https://instagram.com/seoi_ep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"># Languages and Tools:</h3>
@@ -21,4 +21,3 @@
 <h3 align="left"># My stats:</h3>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoi903)](https://solved.ac/seoi903)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seoi903&show_icons=true&theme=dracula&locale=en" alt="seoi903" /></p>

@@ -9,7 +9,7 @@ I always striving to grow steadily.
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=flat&logo=nodedotjs&logoColor=white">
 
 ### 🔗 Contact
-<a href="leeseoi903@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flate&logo=gmail&logoColor=white"></a> 
+<a href="mailto:leeseoi903@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flate&logo=gmail&logoColor=white"></a> 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flate&&logo=Instagram&logoColor=white&link=https://www.instagram.com/"></a>
 
   
